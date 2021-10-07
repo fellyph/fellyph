@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm fan of bad really shows
 
-🏠 [website][https://fellyph.com.br]
-🎥 [youtube][https://www.youtube.com/channel/UCPaufJocHYVHj44iwXG95PA]
-🐦 [twitter][https://www.twitter.com/fellyph]
+🏠 [website][https://fellyph.com.br] **|**
+🎥 [youtube][https://www.youtube.com/channel/UCPaufJocHYVHj44iwXG95PA] **|**
+🐦 [twitter][https://www.twitter.com/fellyph] **|**
