@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 🏠 [website][https://fellyph.com.br] **|**
 🎥 [youtube][https://www.youtube.com/channel/UCPaufJocHYVHj44iwXG95PA] **|**
 🐦 [twitter][https://www.twitter.com/fellyph] **|**
+
+[website]: https://fellyph.com.br
+[youtube]: https://www.youtube.com/channel/UCPaufJocHYVHj44iwXG95PA
+[twitter]: https://www.twitter.com/fellyph
