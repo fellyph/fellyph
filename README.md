@@ -4,7 +4,6 @@
 ### I'm a Developer, Teacher and great Chef!
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on PWA, Gutenberg and AMP course
 - 🌱 I’m currently learning Next.js and Tailwind CSS
@@ -14,6 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Github, Youtube and Twitter
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm fan of bad really shows
+
+---
 
 🏠  [website][website] **|**
 🎥  [youtube][youtube] **|**
