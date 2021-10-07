@@ -3,7 +3,9 @@
 
 ### I'm a Developer, Teacher and great Chef!
 
+Team worker and passionate about what I do. I have experience with different work environment, Multinational companies, Startup and digital agencies.
 
+---
 
 - 🔭 I’m currently working on PWA, Gutenberg and AMP course
 - 🌱 I’m currently learning Next.js and Tailwind CSS
