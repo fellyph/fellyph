@@ -3,18 +3,18 @@
 
 ### I'm a Developer, Teacher and great Chef!
 
-Team worker and passionate about what I do. I have experience with different work environment, Multinational companies, Startup and digital agencies.
+Team worker and passionate about what I do. I have experience with different work environments, Multinational companies, startups and digital agencies.
 
 ---
 
-- 🔭 I’m currently working on PWA, Gutenberg and AMP course
-- 🌱 I’m currently learning Next.js and Tailwind CSS
+- 🔭 I’m currently working on PWA, React and TypeScript
+- 🌱 I’m currently learning Next.js and 
 - 👯 I’m looking to collaborate on content creation 
 - 🤔 I’m looking for help with find projects to contribute
 - 💬 Ask me about JavaScript, CSS, HTML, PWA and WordPress
-- 📫 How to reach me: Github, Youtube and Twitter
+- 📫 How to reach me: Github, YouTube and Twitter
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm fan of bad really shows
+- ⚡ Fun fact: I'm a fan of bad really shows
 
 ---
 
