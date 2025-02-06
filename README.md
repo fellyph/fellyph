@@ -18,7 +18,7 @@ I am a team worker and passionate about what I do. I have experience working in 
 
 🏠  [Blog][blog] **|**
 🎥  [YouTube][youtube] **|**
-🐦  [Linkedin][linkedin]
+🧑🏽‍💻  [Linkedin][linkedin]
 
 [blog]: https://blog.fellyph.com.br
 [youtube]: https://www.youtube.com/channel/UCPaufJocHYVHj44iwXG95PA
