@@ -16,7 +16,7 @@ I am a team worker and passionate about what I do. I have experience working in 
 
 ---
 
-🏠  [website][blog] **|**
+🏠  [blog][blog] **|**
 🎥  [youtube][youtube] **|**
 🐦  [twitter][twitter] **|**
 
