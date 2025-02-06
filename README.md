@@ -16,10 +16,10 @@ I am a team worker and passionate about what I do. I have experience working in 
 
 ---
 
-🏠  [blog][blog] **|**
-🎥  [youtube][youtube] **|**
-🐦  [twitter][twitter] **|**
+🏠  [Blog][blog] **|**
+🎥  [YouTube][youtube] **|**
+🐦  [Linkedin][linkedin] **|**
 
 [blog]: https://blog.fellyph.com.br
 [youtube]: https://www.youtube.com/channel/UCPaufJocHYVHj44iwXG95PA
-[twitter]: https://www.twitter.com/fellyph
+[linkedin]: https://www.linkedin.com/in/fellyph/
